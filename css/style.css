@@ -1305,9 +1305,6 @@ i.fa.fa-laptop {
   background: linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);
 }
 
-z-index: 9990 !important;
-}
-
 .skills-bar .bar_group__bar:nth-of-type(2) {
   background: #f4c4f3;
   /* fallback for old browsers */
@@ -1632,7 +1629,7 @@ h4.modal-title {
 /*-- contact-form --*/
 
 .contact {
-  background: url(../images/c2.jpg) no-repeat 0px 0px;
+  background: url(../img/c2.jpg) no-repeat 0px 0px;
   background-size: cover;
   min-height: 500px;
 }
@@ -2001,7 +1998,7 @@ h4.modal-title {
       font-size: 2.3em;
   }
   .w3-banner-top {
-      background: url(../images/ban6666.jpg) no-repeat -637px 0px;
+      background: url(../img/ban6666.jpg) no-repeat -637px 0px;
       background-size: cover;
   }
   .w3-edu-grid-left {
@@ -2095,7 +2092,7 @@ h4.modal-title {
       padding: 7em 0 0 0;
   }
   .w3-banner-top {
-      background: url(../images/ban6666.jpg) no-repeat -739px 0px;
+      background: url(../img/ban6666.jpg) no-repeat -739px 0px;
       background-size: cover;
   }
 }
@@ -2115,7 +2112,7 @@ h4.modal-title {
       margin: 1em;
   }
   .w3-banner-top {
-      background: url(../images/ban6666.jpg) no-repeat -834px 0px;
+      background: url(../img/ban6666.jpg) no-repeat -834px 0px;
       background-size: cover;
   }
   .w3-about-grid-left2 h4 {
