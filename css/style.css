@@ -156,7 +156,7 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
-  background: url(../img/hinhanh.jpg) no-repeat center top;
+  background: url(..\img\hinhanh.jpg) no-repeat center top;
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;
@@ -392,14 +392,14 @@ sm {
   font-weight: bold;
 }
 .w3-banner-top {
-  background: url(../img/ban6666.jpg) no-repeat 0px 0px;
+  background: url(..\img\ban6666.jpg) no-repeat 0px 0px;
   background-size: cover;
   min-height: 750px;
   position: relative;
 }
 
 .agileinfo-dot {
-  background: url(../img/dott.png)repeat 0px 0px;
+  background: url(..\img\dott.png)repeat 0px 0px;
   background-size: 2px;
   -webkit-background-size: 2px;
   -moz-background-size: 2px;
@@ -1211,7 +1211,7 @@ i.fa.fa-laptop {
 /*-- skills --*/
 
 .skills {
-  background: url(../img/skill2.jpg) no-repeat 0px 0px;
+  background: url(..\img\skill2.jpg) no-repeat 0px 0px;
   background-size: cover;
   min-height: 500px;
 }
@@ -1629,7 +1629,7 @@ h4.modal-title {
 /*-- contact-form --*/
 
 .contact {
-  background: url(../img/c2.jpg) no-repeat 0px 0px;
+  background: url(..\img\c2.jpg) no-repeat 0px 0px;
   background-size: cover;
   min-height: 500px;
 }
@@ -1998,7 +1998,7 @@ h4.modal-title {
       font-size: 2.3em;
   }
   .w3-banner-top {
-      background: url(../img/ban6666.jpg) no-repeat -637px 0px;
+      background: url(..\img\ban6666.jpg) no-repeat -637px 0px;
       background-size: cover;
   }
   .w3-edu-grid-left {
@@ -2092,7 +2092,7 @@ h4.modal-title {
       padding: 7em 0 0 0;
   }
   .w3-banner-top {
-      background: url(../img/ban6666.jpg) no-repeat -739px 0px;
+      background: url(..\img\an6666.jpg) no-repeat -739px 0px;
       background-size: cover;
   }
 }
@@ -2112,7 +2112,7 @@ h4.modal-title {
       margin: 1em;
   }
   .w3-banner-top {
-      background: url(../img/ban6666.jpg) no-repeat -834px 0px;
+      background: url(..\img\ban6666.jpg) no-repeat -834px 0px;
       background-size: cover;
   }
   .w3-about-grid-left2 h4 {
